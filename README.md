@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://vistr.dev/badge?repo=pstarostka.azureb2c-custom-policy-ui)
 <!--
 **pstarostka/pstarostka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
